@@ -51,12 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsugungor&layout=compact&theme=radical" width="48%" alt="Top Languages" />
 </p>
 
----
-
-### 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nilsugungor/nilsugungor/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
