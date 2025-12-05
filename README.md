@@ -40,19 +40,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilsugungor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilsugungor&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsugungor&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</p>
-
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
