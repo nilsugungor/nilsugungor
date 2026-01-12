@@ -1,21 +1,11 @@
-<!-- README.md -->
-<h1 align="center">👋 Hi there, I'm <a href="https://github.com/nilsugungor">Nilsu Güngör</a>!</h1>
-<h3 align="center">💻 Data Analyst | AI & Fullstack Developer</h3>
+#Nilsu Gungor
+##Data Science | AI & Fullstack Developer
 
----
-
-### 🧠 About Me
-- 🧩 Passionate about **data-driven problem solving**, **machine learning**, and **software engineering**
-- 📊 Enjoy building **interactive data visualizations** with **Tableau** and **Python**
-- 🧠 Currently learning **PyTorch**, **TensorFlow**, and **Deep Learning** concepts
-- 💻 Experienced in **web development** and **software design**
-- ☕ Fueled by curiosity (and coffee ☕)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
+### About Me
+- Passionate about **data-driven problem solving**, **machine learning**, and **software engineering**
+- Enjoy building **interactive data visualizations** with **Tableau** and **Python**
+- Currently learning **PyTorch**, **TensorFlow**, and **Deep Learning** concepts
+- Experienced in **web development** and **software design**
 
 #### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,19 +26,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</div>
-
----
 
 
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:nilsugungor000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nilsu-gungor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nilsugungor&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
